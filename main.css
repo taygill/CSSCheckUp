@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+h1{
+    margin-left:410px
+}
+.header{
+    margin:50px;
+    border:50px;
+    color: white;
+    font-style: oblique;
+    border: dotted
+}
+
+#special{
+    
+    color:rebeccapurple;
+    margin:50px;
+    padding-left: 80px;
+
+
+}
+img{
+    position:center;
+    color:hotpink;
+object-fit:scale-down;
+margin-left:445px
+}
